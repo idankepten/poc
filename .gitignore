@@ -1,0 +1,33 @@
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# Cursive Clojure plugin
+.idea/replstate.xml
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Typescript v1 declaration files
+typings/
+
+# Local
+coverage/
+node_modules/
+docker-compose.yml
+.env
+.npmrc
+dist
+downloads
+.vscode
+
+# circleci
+process.yml
